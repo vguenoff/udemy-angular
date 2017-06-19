@@ -1,0 +1,1039 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"status\tparameter"
+			],
+			[
+				"sta",
+				"status\tvar"
+			],
+			[
+				"In",
+				"Injectable\talias"
+			],
+			[
+				"acc",
+				"accounts.service\tscript"
+			],
+			[
+				"ac",
+				"accountStatus\tparameter"
+			],
+			[
+				"Acc",
+				"AccountsService\talias"
+			],
+			[
+				"a",
+				"accountsService\tproperty"
+			],
+			[
+				"s",
+				"status\tproperty"
+			],
+			[
+				"Lo",
+				"LoggingService\talias"
+			],
+			[
+				"pro",
+				"providers\tproperty"
+			],
+			[
+				"clas",
+				"class\tkeyword"
+			],
+			[
+				"expo",
+				"export\tkeyword"
+			],
+			[
+				"Hos",
+				"HostListener\talias"
+			],
+			[
+				"di",
+				"Directive\talias"
+			],
+			[
+				"HOs",
+				"HostBinding\talias"
+			],
+			[
+				"Host",
+				"HostListener\talias"
+			],
+			[
+				"val",
+				"value\tproperty"
+			],
+			[
+				"HT",
+				"HTMLElement\tinterface"
+			],
+			[
+				"na",
+				"nativeElement\tproperty"
+			],
+			[
+				"Ele",
+				"ElementRef\talias"
+			],
+			[
+				"se",
+				"selectedRecipe"
+			],
+			[
+				"re",
+				"recepeWasSelected\tproperty"
+			],
+			[
+				"O",
+				"Output\talias"
+			],
+			[
+				"rece",
+				"recipe\tparameter"
+			],
+			[
+				"Re",
+				"Recepe\talias"
+			],
+			[
+				"pa",
+				"page\tparameter"
+			],
+			[
+				"Eve",
+				"EventEmitter\talias"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"cla",
+				"class\tkeyword"
+			],
+			[
+				"cons",
+				"constructor\tkeyword"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"import",
+				"import\tkeyword"
+			],
+			[
+				"ran",
+				"randomArr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/app.module.ts",
+			"settings":
+			{
+				"buffer_size": 761,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/accounts.service.ts",
+			"settings":
+			{
+				"buffer_size": 774,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/logging.service.ts",
+			"settings":
+			{
+				"buffer_size": 139,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 311,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 457,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/new-account/new-account.component.html",
+			"settings":
+			{
+				"buffer_size": 660,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/new-account/new-account.component.ts",
+			"settings":
+			{
+				"buffer_size": 785,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/account/account.component.html",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/account/account.component.ts",
+			"settings":
+			{
+				"buffer_size": 738,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"packa",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"linterse",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"error li",
+				"TypeScript: Show Error List"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/code/angular/udemy/services",
+		"/D/code/angular/udemy/services/src",
+		"/D/code/angular/udemy/services/src/app",
+		"/D/code/angular/udemy/services/src/app/account",
+		"/D/code/angular/udemy/services/src/app/new-account"
+	],
+	"file_history":
+	[
+		"/D/code/angular/udemy/services/src/app/app.module.ts",
+		"/D/code/angular/udemy/services/.angular-cli.json",
+		"/D/code/angular/udemy/services/src/app/app.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe-detail/recipe-detail.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/shopping-list/shopping-list.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/shopping-list/shopping-list.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/shopping-list/shopping-edit/shopping-edit.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe-list/recipe-list.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe-list/recipe-list.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/shared/ingredient.model.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe-detail/recipe-detail.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipes.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipes.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipe.model.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/app.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/app.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/header/header.component.html",
+		"/D/code/angular/udemy/recipe-book/src/app/header/header.component.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/app.module.ts",
+		"/D/code/angular/udemy/recipe-book/src/app/shopping-list/shopping-list.component.css",
+		"/D/code/angular/udemy/recipe-book/src/app/app.component.css",
+		"/D/code/angular/udemy/recipe-book/src/app/recipes/recipes.component.css",
+		"/D/code/angular/udemy/recipe-book/src/header/header.componen.ts",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/code/angular/udemy/recipe-book/.angular-cli.json",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/D/code/angular/udemy/recipe-book/tsconfig.json",
+		"/D/code/angular/udemy/recipe-book/src/app/app.component.spec.ts",
+		"/D/code/react-redux/book-list/src/reducers/index.js",
+		"/D/code/react-redux/book-list/src/components/BookDetail.js",
+		"/D/code/react-redux/book-list/src/reducers/activeBook.js",
+		"/D/code/react-redux/book-list/src/index.js",
+		"/D/code/react-redux/book-list/src/components/BookList.js",
+		"/C/Users/vguen/Desktop/book-list/src/actions/index.js",
+		"/C/Users/vguen/Desktop/book-list/src/ContainerComponents/BookList.js",
+		"/D/code/react/timestamps/src/components/AddNoteForm.js",
+		"/D/code/react/timestamps/src/components/sampleNote.js",
+		"/D/code/react/timestamps/src/index.scss",
+		"/D/code/react-redux/youtube-search/package.json",
+		"/D/code/react/timestamps/src/App.css",
+		"/D/code/react/timestamps/src/index.js",
+		"/D/code/react/timestamps/package.json",
+		"/D/code/react/timestamps/src/index.css",
+		"/D/code/react/timestamps/src/App.js",
+		"/D/code/react/react-for-beginners/src/helpers.js",
+		"/D/code/react/timestamps/src/components/NoteList.js",
+		"/D/code/react/timestamps/src/components/Header.js",
+		"/D/code/react/timestamps/src/components/Confirmation.js",
+		"/D/code/react/timestamps/src/components/confirm.js",
+		"/D/code/react/timestamps/src/components/Clock.js",
+		"/D/code/creadoweb-task/src/index.scss",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/CSScomb/csscomb.js",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/CSScomb/node_modules/csscomb/lib/csscomb.js",
+		"/D/code/react/timestamps/yarn.lock",
+		"/D/code/react/timestamps/src/App.scss",
+		"/D/code/react/timestamps/src/logo.svg",
+		"/D/code/fullstack-react/code/voting_app/public/js/app.js",
+		"/D/code/react/react-for-beginners/src/index.js",
+		"/D/code/react/react-for-beginners/src/base.js",
+		"/D/code/react/react-for-beginners/src/components/App.js",
+		"/C/Users/vguen/Desktop/circuits.json",
+		"/D/code/funfunfunction/01-factory-functions.js",
+		"/D/code/funfunfunction/02-composition-inheritance.js",
+		"/D/code/the-net-ninja/asynchronous-js/01-ajax-requests/index.js",
+		"/C/Users/vguen/Desktop/driverStandings.json",
+		"/C/Users/vguen/Desktop/rosberg.json",
+		"/D/code/react/react-for-beginners/src/components/StorePicker.js",
+		"/D/code/creadoweb-task/src/img/constructors/force_india.png",
+		"/D/code/creadoweb-task/src/img/constructors/haas.png",
+		"/D/code/creadoweb-task/src/img/constructors/mercedes.png",
+		"/D/code/funfunfunction/functional-programming/04-advanced-redce.js",
+		"/D/code/funfunfunction/functional-programming/01-filter.js",
+		"/D/code/funfunfunction/functional-programming/02-map.js",
+		"/D/code/funfunfunction/functional-programming/03-reduce.js",
+		"/D/code/funfunfunction/functional-programming/05-closures.js",
+		"/D/code/funfunfunction/functional-programming/06-currying.js",
+		"/C/Users/vguen/Desktop/book-list/src/ContainerComponents/BookDetail.js",
+		"/C/Users/vguen/Desktop/book-list/src/reducers/ActiveBookReducer.js",
+		"/C/Users/vguen/Desktop/book-list/src/index.js",
+		"/C/Users/vguen/Desktop/book-list/src/PresentationalComponents/App.js",
+		"/C/Users/vguen/Desktop/book-list/src/reducers/rootReducer.js",
+		"/C/Users/vguen/Desktop/book-list/src/reducers/BooksReducer.js",
+		"/C/Users/vguen/Desktop/script.js",
+		"/D/code/react/react-for-beginners/package.json",
+		"/D/code/fullstack-react/code/voting_app/.gitignore",
+		"/D/code/fullstack-react/code/time_tracking_app/.gitignore",
+		"/D/code/redux/learn-redux/devServer.js",
+		"/D/code/redux/learn-redux/client/reduxstagram.js",
+		"/C/Users/vguen/Downloads/Learn-Redux-Starter-Files-master/learn-redux/package.json",
+		"/D/code/es6-everyone/-code/01-var-let-const/index.html",
+		"/D/code/es6-everyone/-code/01-var-let-const/webpack.config.js",
+		"/D/code/es6-everyone/-code/01-var-let-const/package.json",
+		"/D/code/es6-everyone/-code/01-var-let-const/main.js",
+		"/D/code/funfunfunction/game/sniper.png",
+		"/D/code/funfunfunction/game/script.js",
+		"/D/code/front-end-web-dev/ottergram/.gitignore",
+		"/D/code/react/react-training/pre-github-battle/.eslintrc",
+		"/D/code/react-redux/youtube-search/src/index.js",
+		"/D/code/react-redux/youtube-search/src/components/App.js",
+		"/D/code/react-redux/youtube-search/src/components/SearchBar.js",
+		"/D/code/react-redux/youtube-search/src/components/VideoDetail.js",
+		"/D/code/react-redux/youtube-search/src/components/VideoList.js",
+		"/D/code/react-redux/youtube-search/src/components/VideoListItem.js",
+		"/D/code/redux/examples/redux/examples/counter/src/components/Counter.js",
+		"/D/code/redux/examples/redux/examples/counter/src/reducers/index.js",
+		"/D/code/redux/examples/redux/examples/counter/src/index.js",
+		"/D/code/redux/examples/redux/examples/counter/README.md",
+		"/D/code/react-redux/book-list/package.json",
+		"/D/code/redux/Redux.md",
+		"/C/Users/vguen/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/book_list/src/index.js",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/src/components/video_list.js",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/src/components/video_detail.js",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/src/components/search_bar.js",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/src/index.js",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/index.html",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/src/components/video_list_item.js",
+		"/C/Users/vguen/Downloads/ReduxCasts-master/ReduxCasts-master/video_browser/style/style.css",
+		"/C/Users/vguen/Documents/task-dophamine/New Text Document.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"D:\\code\\angular\\udemy\\first-app\\src\\app",
+			"<open files>,<open folders>,D:\\code\\angular\\udemy\\first-app\\src\\app",
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"statusChanged",
+			"accountName",
+			"btn-group",
+			"ShoppingEditComponent",
+			"DropdownDirective",
+			"nameInput",
+			" ",
+			"#",
+			" ",
+			"<input",
+			" ",
+			"recipe",
+			"recepe",
+			"  @",
+			"selectedPage",
+			"submit",
+			"name",
+			"new",
+			"app-shopping-list",
+			"Description",
+			"\n<div class=\"row\">\n  <div class=\"col-xs-12\">\n    Description\n  </div>\n</div>",
+			">\n",
+			"    new Recepe(\n      'A Test recepe',\n      'This is simply a test',\n      'http://www.seriouseats.com/recipes/assets_c/2016/05/20160503-fava-carrot-ricotta-salad-recipe-1-thumb-1500xauto-431710.jpg')",
+			";",
+			"navbar",
+			"Data",
+			"Recipe",
+			"Recipie",
+			"list",
+			"\"></",
+			"h2",
+			"h1",
+			"AppComponent",
+			"show",
+			"import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent {\n}\n",
+			"mapStateToProps",
+			"mapDispatchToProps",
+			"mapStateToProps",
+			"bindActionCreators",
+			"{",
+			"slugify",
+			"rando",
+			"\nformatPrice",
+			"nextState",
+			"nextProps",
+			"local",
+			"params",
+			"storeId",
+			"circuitId",
+			"rio",
+			"nationality",
+			"key",
+			"b",
+			");\n",
+			"let",
+			"className"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"recipe"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/app.module.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/accounts.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								162
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/logging.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								27
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/Angular2 HTML Syntax/Angular2HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/new-account/new-account.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/Angular2 HTML Syntax/Angular2HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app/new-account/new-account.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/app/account/account.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/Angular2 HTML Syntax/Angular2HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/account/account.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 110.0
+	},
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "services.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"module",
+				"app.module.ts"
+			],
+			[
+				"recipe",
+				"recipes\\recipe.model.ts"
+			],
+			[
+				"shoedi",
+				"shopping-list\\shopping-edit\\shopping-edit.component.ts"
+			],
+			[
+				"",
+				"Package Control Messages"
+			],
+			[
+				"app.com",
+				"src\\app\\app.component.html"
+			],
+			[
+				"src/app/",
+				"src\\app\\app.component.css"
+			],
+			[
+				"recip",
+				"src\\app\\recipes\\recipes.component.css"
+			],
+			[
+				"src/",
+				"src\\components\\BookDetail.js"
+			],
+			[
+				"src",
+				"src\\ContainerComponents\\BookList.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\code\\angular\\udemy\\services-assignment\\services-assignment.sublime-project"
+			],
+			[
+				"to",
+				"D:\\code\\angular\\todo\\todo.sublime-project"
+			],
+			[
+				"todo",
+				"D:\\code\\angular\\todo\\todo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
